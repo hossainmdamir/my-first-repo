@@ -24,11 +24,10 @@ body{
 }
 .link-button{
 text-decoration: none;
-background-image: linear-gradient(pink, purple);
+background-image: linear-gradient(rgb(177, 230, 34), rgb(47, 160, 25));
 color: white;
-font-weight: 700;
+font-weight: 400;
 border-radius: 5px;
-
 }
 .big-dream{
     background-image: url(images/dream-bg.png);
@@ -59,4 +58,7 @@ border-radius: 5px;
     border-left: 7px solid;
     border-image: linear-gradient(red, yellow);
     border-image-slice: 1; 
+}
+footer p{
+    text-align: center;
 }
